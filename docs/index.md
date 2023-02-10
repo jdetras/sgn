@@ -1,4 +1,4 @@
 ---
-title: "SGN Documentation"
+title: "Imagebreed Documentation"
 layout: doc_folder
 ---
