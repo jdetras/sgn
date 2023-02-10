@@ -1,5 +1,5 @@
 ---
-title: "0. Breedbase Database Description"
+title: "0. Imagebreed Database Description"
 layout: doc_page
 ---
 
